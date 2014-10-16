@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[avn:home|Door43 (avn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-avn|d43-avn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-avn/archive/master.zip|d43-avn.zip]]
+
+**Recent Changes**
+{{changes>ns = avn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/avn|Ethnologue data]]
+
